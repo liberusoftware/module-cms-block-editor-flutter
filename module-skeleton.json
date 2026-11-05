@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-block-editor-flutter",
+  "capabilityKey": "liberusoftware/module-cms-block-editor",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_block_editor_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/block-editor.md",
+  "presentationPlan": "projects/cms/flutter/block-editor.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
